@@ -2717,3 +2717,10 @@ Segue tambem o Dashboard em formato JSON:
   "weekStart": ""
 }
 ```
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
+
+---
+
+Feito por Derek Willyan
