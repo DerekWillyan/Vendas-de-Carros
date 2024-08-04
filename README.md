@@ -221,7 +221,7 @@ if __name__ == "__main__":
     main()
 
 ```
-Deixarei o arquivo csv do banco de dados em anexo.
+Link do arquivo csv do banco de dados: https://drive.google.com/file/d/1IaU5d7DaOH_j36Nr-ezES2sHvplQg_nh/view?usp=sharing
 Com os dados tratados e devidamente transformados em sql, é hora de criar nosso dashboard. Para a criação do dashboard eu utilizei o **Grafana** uma ferramenta de construção de dashboard completa e gratuita. Segue abaixo como ficou o dashboard
 
 [Gravação de tela de 04-08-2024 13:58:21.webm](https://github.com/user-attachments/assets/826b6576-edc2-4175-86f9-1583f76a556b)
